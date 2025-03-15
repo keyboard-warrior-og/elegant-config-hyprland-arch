@@ -1,0 +1,1 @@
+# elegant-config-hyprland-arch-
